@@ -1,0 +1,23 @@
+.main{
+    background: white;
+    padding: 30px;
+    margin: 50px auto;
+    max-width: 80%;
+    border-radius:4px;
+    box-shadow: 0 0 10px rgba(0,0,0,2);
+}
+
+.main h1{
+    font-size: 20px;
+    text-align: center;
+}
+.main p{
+    font-size: 20px;
+    margin:  10px auto;
+    text-align: center;
+    
+    width: 90%;
+    background-color: aquamarine;
+    color: black;
+}
+
